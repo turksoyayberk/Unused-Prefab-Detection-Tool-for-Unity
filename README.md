@@ -70,5 +70,6 @@ You can remove all selected prefabs, folders, and scenes by clicking the "Clear 
 
 If you find any issues, have suggestions, or think something is missing, feel free to reach out!
 
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [ayberkturksoy97@gmail.com](mailto:ayberkturksoy97@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/ayberkturksoy/](https://www.linkedin.com/in/ayberkturksoy/)
+
